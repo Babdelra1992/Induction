@@ -1,0 +1,6 @@
+Pull and merge
+the only benefit in using pull and merge in a project is preserve the complete history of your project and avoid the risk of re-writing public commits 
+otherwise it will be a conflict state when more than one merge at same time to project
+
+Fetch and rebase 
+this process can add ordered commits to the final stage reached with repository so it will be clean and linear git commit history 
